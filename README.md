@@ -160,29 +160,12 @@ This repository is organized into modules that cover:
 ├── 10_Projects/
 └── README.md
 
-🧠 Who This Repo is For
+```
 
-    💻 Aspiring frontend developers
-
-    📘 Students preparing for web dev interviews
-
-    👨‍💼 Job-seekers refreshing JavaScript concepts
-
-    🛠️ Developers shifting into React/Angular
-
-📎 How to Use This Repo
-
-    Go module by module OR follow the Day-wise Study Plan (coming soon)
-
-    Clone/fork and code along with the examples
-
-    Bookmark tricky interview questions
-
-    Use this as a reference during interviews or internships
-
-⭐ Contribute
+## ⭐ Contribute
 
 If you'd like to add more questions, projects, or explanations, feel free to create a pull request or open an issue. Let's grow together 💪
-🧑‍🏫 Maintained By
 
-[Your Name] – Web Developer | Java Enthusiast | Full-Stack Learner
+## 🧑‍🏫 Maintained By
+
+Mena Rossini R – Web Developer | Java Enthusiast | Full-Stack Learner | A girl who loves to document her learnings
