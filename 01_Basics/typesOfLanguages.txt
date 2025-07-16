@@ -1,0 +1,25 @@
+✅ Quick Legend
+
+    Compiled = Translated to machine code before execution
+
+    Interpreted = Runs directly line-by-line
+
+    Markup = Just defines structure (no logic)
+
+    Scripting = Lightweight automation/control logic
+
+
+🧠 Types of Programming Languages – Unified Table
+
+
+| 🏷️ **Type**                              | 🧪 **Examples**                          | ⚙️ **Execution Model**           | 🎯 **Use Cases**                                 | 🔎 **Notes**                              |
+| ---------------------------------------- | ---------------------------------------- | -------------------------------- | ------------------------------------------------ | ----------------------------------------- |
+| **Scripting Languages**                  | JavaScript, Python, Bash, Ruby, PHP      | Interpreted                      | Web, automation, small apps                      | Runs within another app or environment    |
+| **Compiled Languages**                   | C, C++, Rust, Go, Java (to bytecode)     | Compiled to machine/bytecode     | System apps, servers, performance-critical tasks | Fast & efficient, must compile first      |
+| **Interpreted Languages**                | Python, JavaScript, Ruby, MATLAB         | Interpreted line by line         | Rapid dev, learning, prototyping                 | Slower than compiled, easier to test      |
+| **Object-Oriented (OOP)**                | Java, C++, Python, C#, Ruby              | Either compiled or interpreted   | Web, desktop apps, games                         | Uses classes, objects, inheritance        |
+| **Functional Languages**                 | Haskell, Scala, Elixir, F#, JS (partial) | Varies (compiled/interpreted)    | Data processing, concurrent systems              | Pure functions, no side effects           |
+| **Low-Level Languages**                  | Assembly, C, C++                         | Directly interacts with hardware | OS, drivers, embedded systems                    | High control, very fast, harder to use    |
+| **Markup Languages** *(not programming)* | HTML, XML, Markdown                      | Not executed (parsed/rendered)   | Web structure, documents, configs                | Defines layout or data, no logic          |
+| **Style Languages** *(not programming)*  | CSS, SCSS, TailwindCSS                   | Rendered by browser              | Styling web pages                                | Controls visual appearance                |
+| **Query Languages**                      | SQL, GraphQL, SPARQL                     | Interpreted by DB engine/API     | Database operations                              | Fetch, insert, filter, or manipulate data |

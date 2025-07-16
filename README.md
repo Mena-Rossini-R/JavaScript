@@ -1,7 +1,7 @@
 # 🟨 JavaScript for Web Development – Complete Guide (Beginner to Advanced)
 
 Welcome to the ultimate JavaScript repository for web development and interview preparation!  
-This repo is designed to take you from **JavaScript basics** to **advanced concepts** with **real-world examples, projects**, and **interview questions**.
+This repo is my memory dump for all the things I learnt during my JS journey!!!!!!
 
 ---
 
@@ -164,7 +164,8 @@ This repository is organized into modules that cover:
 
 ## ⭐ Contribute
 
-If you'd like to add more questions, projects, or explanations, feel free to create a pull request or open an issue. Let's grow together 💪
+If you'd like to add more questions, projects, or explanations, feel free to create a pull request or open an issue. 
+Let's grow together 💪
 
 ## 🧑‍🏫 Maintained By
 
