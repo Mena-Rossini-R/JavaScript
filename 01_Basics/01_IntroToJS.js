@@ -1,6 +1,6 @@
 /*
 
-JS is a high-level, interpretted scripting language used to make web pages interactive.
+JS is a high-level, interpretted scripting language used to make web pages interactive., loosely typed / weakly typed
 
 It runs in the browser and can handle tasks like updating content, validating forms, creating animations, and communicating with servers.
 
